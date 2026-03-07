@@ -7,3 +7,6 @@ A stash of stylish, slightly unhinged 403/404 error pages for the homies. Built 
 <img src="screenshot2.jpeg" alt="Screenshot2" width="400">
 
 ## Example 404 Forbidden Pages
+<img src="Screenshot3.jpeg" alt="Screenshot3" width="400">
+
+<img src="Screenshot4.jpeg" alt="Screenshot4" width="400">
